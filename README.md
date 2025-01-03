@@ -3,7 +3,7 @@ Seja bem vindo ao meu perfil no Github! 😄
 
 ## Sobre mim
 - Game designer em formação 👨‍🎓🎮
-- Desenvolvedor e analista de TI (CTIC Capital) 🧑‍💻
+- Desenvolvedor PHP e analista de TI (CTIC Capital) 🧑‍💻
 
 ## Ferramentas e tecnologias 
 
