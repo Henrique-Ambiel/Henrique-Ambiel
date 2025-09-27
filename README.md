@@ -2,9 +2,9 @@
 Seja bem vindo ao meu perfil no Github! 😄
 
 ## Sobre mim
-- Game designer em formação 👨‍🎓🎮
-- Professor de Design de Games na Microcamp 👨‍🏫
-- Desenvolvedor PHP e analista de TI (CTIC Capital) 🧑‍💻
+- Game designer formado 👨‍🎓🎮
+- Professor de Design de Games e TI na Microcamp 👨‍🏫
+- Fundador e representante do estúdio de jogos Hat Gamnes 🎲🕹️🎮
 
 ## Ferramentas e tecnologias 
 
@@ -15,7 +15,7 @@ Seja bem vindo ao meu perfil no Github! 😄
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" heigth="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" width="40" height="40"/>
           
 
-### Trabalho atualmente 🧑‍💻
+### Trabalhei durante 1 ano 🧑‍💻
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phpstorm/phpstorm-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="40" height="40"/> 
 
 <div>
