@@ -3,8 +3,8 @@ Seja bem vindo ao meu perfil no Github! 😄
 
 ## Sobre mim
 - Game designer formado 👨‍🎓🎮
-- Professor de Design de Games e TI na Microcamp 👨‍🏫
-- Fundador e representante do estúdio de jogos Hat Games 🎲🕹️🎮
+- Professor de Design de Games, TI e inglês na Microcamp 👨‍🏫
+- Fundador do estúdio de jogos Hat Games 🎲🕹️🎮
 
 ## Ferramentas e tecnologias 
 
