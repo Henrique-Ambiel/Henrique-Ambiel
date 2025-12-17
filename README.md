@@ -3,6 +3,8 @@ Seja bem vindo ao meu perfil no Github! 😄
 
 ## Sobre mim
 - Game designer formado 👨‍🎓🎮
+- Cursando MBA em Ciência de Dados pela FM2S 🔢
+- 1 ano como desenvolvedor PHP  e analista de infra de TI 🧑‍💻
 - Professor de Design de Games, TI e inglês na Microcamp 👨‍🏫
 - Fundador do estúdio de jogos Hat Games 🎲🕹️🎮
 
