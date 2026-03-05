@@ -27,9 +27,6 @@ Seja bem vindo ao meu perfil no Github! 😄
 <a href="mailto:henriqueambiel@gmail.com">
   <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>   
-<a href="https://wa.me/5519996209718" target="_blank">
-  <img loading="lazy" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-</a>
 <a href="https://www.artstation.com/henriqueambiel20" target="_blank">
   <img loading="lazy" src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white">
 </a>
