@@ -2,9 +2,10 @@
 Seja bem vindo ao meu perfil no Github! 😄
 
 ## Sobre mim
-- Game designer formado 👨‍🎓🎮
+- Game designer formado pela PUC Campinas 👨‍🎓🎮
 - Cursando MBA em Ciência de Dados pela FM2S 🔢
 - 1 ano como desenvolvedor PHP  e analista de infra de TI 🧑‍💻
+- Desenvolvedor Freelancer
 - Professor de Design de Games, TI e inglês a 1 ano na Microcamp 👨‍🏫
 - Fundador do estúdio de jogos Hat Games 🎲🕹️🎮
 
